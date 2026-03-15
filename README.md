@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # Rahul Kumar Singh
 
 🔐 Application Security Researcher | Android Reverse Engineer | Fintech Security
@@ -42,34 +44,50 @@ Cybersecurity researcher with 3+ years of experience in Android reverse engineer
 ### Systems
 - Linux (Primary OS)
 - Windows Security Analysis
-- Hardware & SDR
+- Hardware Knowledge
+- Software Defined Radio (SDR)
 
 ---
 
 ## 🐞 Bug Bounty & Security Research
 
-- HackerOne Reward ($100)
-- Security vulnerability report submitted to BharatNXT
-- Fintech application security analysis
+Achievements:
+
+- 💰 HackerOne Reward ($100)
+- 🛡 Security vulnerability report submitted to BharatNXT
+- 🔍 Fintech application security analysis
 
 Platforms researched:
 
-PayZapp  
-Paytm  
-PhonePe  
-Bajaj Finserv  
-CRED  
-TataNeu  
-Amazon  
-BharatNXT  
-JioPOS Lite  
+- PayZapp
+- Paytm
+- PhonePe
+- Bajaj Finserv
+- CRED
+- TataNeu
+- Amazon
+- BharatNXT
+- JioPOS Lite
+- Kiwi
+- CheQ
+
+---
+
+## 🔬 Research Interests
+
+- Android Application Reverse Engineering
+- Mobile Application Security
+- Fintech Security Testing
+- Encryption Analysis
+- Multi-Device Abuse Prevention
+- Payment & UPI Flow Analysis
 
 ---
 
 ## 🔗 Connect With Me
 
-LinkedIn  
-https://www.linkedin.com/in/rahul-kumar-6b303b327
+💼 LinkedIn  
+https://www.linkedin.com/in/rahul-kumar-6b303b327  
 
-GitHub  
+💻 GitHub  
 https://github.com/Rahul7706
